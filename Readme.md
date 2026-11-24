@@ -4,4 +4,4 @@ github Action concepts and workflows
 
 #workflow
 
-1- to start we need an folder "github/workflow/"
+1- to start we need an folder ".github/workflows"
